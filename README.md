@@ -74,33 +74,35 @@ Faculty-approved content is transformed into:
 
 ## 🏗️ Workflow of Infino Academy
 
-Faculty / Admin
-│
-▼
-Content Upload (Syllabus / Notes)
-│
-▼
-Content Validation & Structuring
-│
-▼
-AI Processing Engine
-(Lecture | Q&A | Solver | Quiz | Code Explainer)
-│
-├───────────────┐
-▼ ▼
-3D Virtual Lecturer Learning Tools Engine
-(Lecture Only) (Q&A | Numerical | Code | Quiz)
-│ │
-└───────┬───────┘
-▼
-Student Interface
-(Web / App Dashboard)
-│
-▼
-Interaction & Practice
-│
-▼
-Database & Analytics
+[ User / Student / Faculty ]
+              │
+              ▼
+[ Content Upload
+  (Syllabus / Notes) ]
+              │
+              ▼
+[ Content Validation
+  & Structuring ]
+              │
+              ▼
+[ AI Processing Engine
+  (Lecture | Q&A | Solver | Quiz | Code Explainer) ]
+              │
+              ├───────────────┐
+              ▼               ▼
+[ 3D Virtual Lecturer ]   [ Learning Tools Engine ]
+[   (Lecture Only)  ]     [ Q&A | Numerical | Code | Quiz ]
+              │               │
+              └───────┬───────┘
+                      ▼
+           [ Student Interface ]
+          [ (Web / App Dashboard) ]
+                      │
+                      ▼
+           [ Interaction & Practice ]
+                      │
+                      ▼
+           [ Database & Analytics ]
 
 
 ---
