@@ -46,8 +46,8 @@ Alongside 3D lecture delivery, the platform provides step-by-step numerical solv
 
 🏗️ Workflow of Infino Academy:   
       
-  Users
-      |
+  User / Student / Faculty 
+      │
       ▼
 Content Upload (Syllabus / Notes)
       │
@@ -61,12 +61,12 @@ AI Processing Engine
       ├───────────────┐
       ▼               ▼
 3D Virtual Lecturer   Learning Tools Engine
-(Lecture on Holograph)        (Q&A | Numerical | Code | Quiz)
+(Lecture Only)        (Q&A | Numerical | Code | Quiz)
       │               │
       └───────┬───────┘
               ▼
         Student Interface
- (Web / App Dashboard)
+      (Web / App Dashboard)
               │
               ▼
      Interaction & Practice
