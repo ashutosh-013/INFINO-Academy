@@ -20,19 +20,26 @@ Alongside 3D lecture delivery, the platform provides step-by-step numerical solv
 
 🧠 Key Features
 🎥 AI Virtual Lecturer (Mr. Infino) – Human-like lectures with gestures & voice
+
 🧮 Numerical Solver – Step-by-step solutions
+
 💬 Content-Restricted Q&A – Accurate, syllabus-aligned answers
+
 💻 Code Explainer – Line-by-line programming explanations
+
 📝 Quizzes & Assessments – Auto-generated from lecture content
+
 📚 Digital Book Library – Centralized learning resources
+
 🧑‍🏫 Live Meet Integration – Real-time doubt sessions
+
 📊 Learning Analytics – Track engagement & performance
 
 
-🏗️ Workflow of Infino Academy:
-
-     USER
-      │
+🏗️ Workflow of Infino Academy:   
+      
+  Users
+      |
       ▼
 Content Upload (Syllabus / Notes)
       │
